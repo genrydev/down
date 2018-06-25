@@ -15,4 +15,5 @@
 #[videos url] \
 #[videos url]
 
-youtube-dl https://www.youtube.com/watch?v=VCo3zZ0P4vU
+youtube-dl --write-sub --all-subs https://www.youtube.com/watch?v=LryQJ25CnKU
+
