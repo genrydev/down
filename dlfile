@@ -15,5 +15,5 @@
 #[videos url] \
 #[videos url]
 
-youtube-dl --write-sub --all-subs https://www.youtube.com/watch?v=LryQJ25CnKU
+wget https://download.i2p2.de/releases/0.9.34/i2pinstall_0.9.34_windows.exe
 
