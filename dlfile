@@ -15,5 +15,6 @@
 #[videos url] \
 #[videos url]
 
-wget https://www.ca.com/content/dam/ca/us/files/data-sheet/ca-spectrum.pdf
+youtube-dl --no-progress --quiet --ignore-errors --output '%(playlist_index)s - %(title)s.%(ext)s' \
+https://www.youtube.com/playlist?list=PLynEdQRJawmwSUZ9YRddVw61DgsGTvEdj
 
