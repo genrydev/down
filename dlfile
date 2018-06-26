@@ -15,5 +15,5 @@
 #[videos url] \
 #[videos url]
 
-youtube-dl https://www.ca.com/content/dam/ca/us/files/data-sheet/ca-network-flow-analysis-ds.pdf
+wget https://www.ca.com/content/dam/ca/us/files/data-sheet/ca-spectrum.pdf
 
