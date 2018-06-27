@@ -15,7 +15,11 @@
 #[videos url] \
 #[videos url]
 
-wget "https://www.yt2mp3s.me/@download/320-5b337cbc36cea-124760000-3119/mp3/ydKwY0tqAXQ/Beethoven%2B-%2BSonata%2BClaro%2Bde%2BLuna.mp3"
-wget "https://www.yt2mp3s.me/@download/320-5b337d2142f53-14840000-371/mp3/6Q9fBU5ICxc/Claro%2Bde%2BLuna%2B-%2BBeethoven.mp3"
-wget "https://www.yt2mp3s.me/@download/320-5b337d5356468-124760000-3119/mp3/ydKwY0tqAXQ/Beethoven%2B-%2BSonata%2BClaro%2Bde%2BLuna.mp3"
-wget "https://www.yt2mp3s.me/@download/320-5b337d78bca11-12440000-311/mp3/-98v4S6ST_U/Crepusculo%2BClaro%2Bde%2BLuna%2BDebussy%2BTwilight.mp3"
+wget "https://swupdate.openvpn.org/community/releases/openvpn-install-2.4.6-I602.exe"
+wget "https://www.vpnbook.com/free-openvpn-account/VPNBook.com-OpenVPN-Euro1.zip"
+wget "https://www.vpnbook.com/free-openvpn-account/VPNBook.com-OpenVPN-Euro2.zip"
+wget "https://www.vpnbook.com/free-openvpn-account/VPNBook.com-OpenVPN-US1.zip"
+wget "https://www.vpnbook.com/free-openvpn-account/VPNBook.com-OpenVPN-US2.zip"
+wget "https://www.vpnbook.com/free-openvpn-account/VPNBook.com-OpenVPN-CA1.zip"
+wget "https://www.vpnbook.com/free-openvpn-account/VPNBook.com-OpenVPN-DE1.zip"
+wget "https://www.vpnbook.com/free-openvpn-account/VPNBook.com-OpenVPN-FR1.zip"
