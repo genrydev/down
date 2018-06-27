@@ -15,6 +15,7 @@
 #[videos url] \
 #[videos url]
 
-youtube-dl --no-progress --quiet --ignore-errors --output '%(playlist_index)s - %(title)s.%(ext)s' \
-https://www.youtube.com/playlist?list=PLA5E1D308747ED81D
-
+wget "https://www.yt2mp3s.me/@download/320-5b337cbc36cea-124760000-3119/mp3/ydKwY0tqAXQ/Beethoven%2B-%2BSonata%2BClaro%2Bde%2BLuna.mp3"
+wget "https://www.yt2mp3s.me/@download/320-5b337d2142f53-14840000-371/mp3/6Q9fBU5ICxc/Claro%2Bde%2BLuna%2B-%2BBeethoven.mp3"
+wget "https://www.yt2mp3s.me/@download/320-5b337d5356468-124760000-3119/mp3/ydKwY0tqAXQ/Beethoven%2B-%2BSonata%2BClaro%2Bde%2BLuna.mp3"
+wget "https://www.yt2mp3s.me/@download/320-5b337d78bca11-12440000-311/mp3/-98v4S6ST_U/Crepusculo%2BClaro%2Bde%2BLuna%2BDebussy%2BTwilight.mp3"
