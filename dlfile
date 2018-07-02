@@ -15,11 +15,7 @@
 #[videos url] \
 #[videos url]
 
-wget "https://swupdate.openvpn.org/community/releases/openvpn-install-2.4.6-I602.exe"
-wget "https://www.vpnbook.com/free-openvpn-account/VPNBook.com-OpenVPN-Euro1.zip"
-wget "https://www.vpnbook.com/free-openvpn-account/VPNBook.com-OpenVPN-Euro2.zip"
-wget "https://www.vpnbook.com/free-openvpn-account/VPNBook.com-OpenVPN-US1.zip"
-wget "https://www.vpnbook.com/free-openvpn-account/VPNBook.com-OpenVPN-US2.zip"
-wget "https://www.vpnbook.com/free-openvpn-account/VPNBook.com-OpenVPN-CA1.zip"
-wget "https://www.vpnbook.com/free-openvpn-account/VPNBook.com-OpenVPN-DE1.zip"
-wget "https://www.vpnbook.com/free-openvpn-account/VPNBook.com-OpenVPN-FR1.zip"
+youtube-dl https://www.youtube.com/watch?v=fK3jUrazWR4
+youtube-dl https://www.youtube.com/watch?v=HD5fXYfjAcQ
+youtube-dl https://www.youtube.com/watch?v=oiNqWks2GJ4
+youtube-dl https://www.youtube.com/watch?v=ZX-XGQoISHQ
