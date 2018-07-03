@@ -15,8 +15,8 @@
 #[videos url] \
 #[videos url]
 
-youtube-dl https://www.youtube.com/watch?v=5-MT5zeY6CU
-youtube-dl https://www.youtube.com/watch?v=OsOUcikyGRk
-youtube-dl https://www.youtube.com/watch?v=arMu4f8rnBk
-youtube-dl https://www.youtube.com/watch?v=oKPhGHAdqk0
-youtube-dl https://www.youtube.com/watch?v=4Tr0otuiQuU
+youtube-dl -x --audio-format "mp3" https://www.youtube.com/watch?v=5-MT5zeY6CU
+youtube-dl -x --audio-format "mp3" https://www.youtube.com/watch?v=OsOUcikyGRk
+youtube-dl -x --audio-format "mp3" https://www.youtube.com/watch?v=arMu4f8rnBk
+youtube-dl -x --audio-format "mp3" https://www.youtube.com/watch?v=oKPhGHAdqk0
+youtube-dl -x --audio-format "mp3" https://www.youtube.com/watch?v=4Tr0otuiQuU
