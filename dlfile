@@ -15,8 +15,8 @@
 #[videos url] \
 #[videos url]
 
-youtube-dl https://www.youtube.com/watch?v=qZGkg3txCRM
-youtube-dl https://www.youtube.com/watch?v=ST3pzLmGC8I
-youtube-dl https://www.youtube.com/watch?v=_0QYQBoKZ2Y
-youtube-dl https://www.youtube.com/watch?v=JSQF4AkJYLo
-youtube-dl https://www.youtube.com/watch?v=aengwR7jNIA
+youtube-dl --no-progress --quiet --ignore-error https://www.youtube.com/watch?v=qZGkg3txCRM \
+https://www.youtube.com/watch?v=ST3pzLmGC8I \
+https://www.youtube.com/watch?v=_0QYQBoKZ2Y \
+https://www.youtube.com/watch?v=JSQF4AkJYLo \
+https://www.youtube.com/watch?v=aengwR7jNIA
